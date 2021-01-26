@@ -25,6 +25,7 @@ Za treść plakatu odpowiadają wyłącznie autorzy plakatu.
  `nazwisko-imię-rok.pdf` lub `nazwisko-imię-rok.md`.
 3. W przypadku prac wieloautorskich do odpowiedniego katalogu należy wgrać jeden lub dwa pliki i nazwach
  `nazwisko1-imię1-nazwisko2-imię2-rok.pdf` lub `nazwisko1-imię1-nazwisko2-imię2-rok.md` (ewentualnie więcej nazwisk).
+ 4. Po wgraniu pliku na swój fork należy wysłać pull-request ze zmianami do repozytorium https://github.com/mini-pw/mini-posters. W tytule pull-request proszę podać tytuł pracy dyplomowej oraz datę obrony.
 
 W pliku `pdf` powinien być plakat w formacie pdf. W pliku `md` autorzy mogą (ale nie muszą) umieścić dodatkowe informacje o swojej pracy, w tym linki do opracowanego oprogramowania lub innego wyniku pracy licencjackiej.
 
