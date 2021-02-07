@@ -55,7 +55,7 @@ Only author can submit a poster to the repository.
 By submitting a poster, you agree to make your poster public.
 The authors of the poster are solely responsible for the content of the poster.
 
-(1) If the submitter does not have a GitHub account, one must be created at [GutHub](https://github.com/).
+(1) If the submitter does not have a GitHub account, one must be created at [GitHub](https://github.com/).
 2. Create a fork of the repository https://github.com/mini-pw/mini-posters .
 3. In the case of single-authored works, one or two files should be uploaded to the appropriate directory with the following names  `surname-firstname-year.pdf` or `surname-firstname-year.md`.
 4. For posters with two or more authors, upload one or two files named `surname1-name1-surname2-name2-year.pdf` or `surname1-name1-surname2-name2-year.md` to the appropriate directory. 
