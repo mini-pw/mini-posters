@@ -19,7 +19,7 @@ Plakat do repozytorium może zgłosić tylko autor plakatu.
 Wysłanie zgłoszenia oznacza zgodę na upublicznienie swojego plakatu.
 Za treść plakatu odpowiadają wyłącznie autorzy plakatu.
 
-1. Jeżeli zgłaszający nie posiada konta w serwisie GitHub to należy je założyć na stronie [GutHub](https://github.com/).
+1. Jeżeli zgłaszający nie posiada konta w serwisie GitHub to należy je założyć na stronie [GitHub](https://github.com/).
 2. Należy utworzyć fork repozytorium https://github.com/mini-pw/mini-posters
 3. W przypadku prac jednoautorskich do odpowiedniego katalogu należy wgrać jeden lub dwa pliki i nazwach
  `nazwisko-imię-rok.pdf` lub `nazwisko-imię-rok.md`.
