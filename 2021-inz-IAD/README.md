@@ -1,3 +1,3 @@
-# 2021 inż IAD 
+# 2021 inż. IAD
 
-Katalog dla prac dyplomowych obronionych na IAD w roku 2021
+Katalog dla prac dyplomowych obronionych na IAD w roku 2021.

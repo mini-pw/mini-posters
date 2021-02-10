@@ -1,3 +1,3 @@
-# 2021 inż Informatyka i Systemy Informacyjne
+# 2021 inż. Informatyka i Systemy Informacyjne
 
-Katalog dla prac dyplomowych obronionych na Informatyce w roku 2021
+Katalog dla prac dyplomowych obronionych na Informatyce w roku 2021.
